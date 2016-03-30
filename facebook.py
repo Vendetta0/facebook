@@ -41,12 +41,6 @@ print """
 
 
 
-
-
-
-
-
-
 """
 print """
 1) etisalat
